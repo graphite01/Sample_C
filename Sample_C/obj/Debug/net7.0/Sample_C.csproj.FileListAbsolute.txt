@@ -1,0 +1,15 @@
+/Users/graphite/projects/Sample_C/Sample_C/bin/Debug/net7.0/Sample_C
+/Users/graphite/projects/Sample_C/Sample_C/bin/Debug/net7.0/Sample_C.deps.json
+/Users/graphite/projects/Sample_C/Sample_C/bin/Debug/net7.0/Sample_C.runtimeconfig.json
+/Users/graphite/projects/Sample_C/Sample_C/bin/Debug/net7.0/Sample_C.dll
+/Users/graphite/projects/Sample_C/Sample_C/bin/Debug/net7.0/Sample_C.pdb
+/Users/graphite/projects/Sample_C/Sample_C/obj/Debug/net7.0/Sample_C.csproj.AssemblyReference.cache
+/Users/graphite/projects/Sample_C/Sample_C/obj/Debug/net7.0/Sample_C.GeneratedMSBuildEditorConfig.editorconfig
+/Users/graphite/projects/Sample_C/Sample_C/obj/Debug/net7.0/Sample_C.AssemblyInfoInputs.cache
+/Users/graphite/projects/Sample_C/Sample_C/obj/Debug/net7.0/Sample_C.AssemblyInfo.cs
+/Users/graphite/projects/Sample_C/Sample_C/obj/Debug/net7.0/Sample_C.csproj.CoreCompileInputs.cache
+/Users/graphite/projects/Sample_C/Sample_C/obj/Debug/net7.0/Sample_C.dll
+/Users/graphite/projects/Sample_C/Sample_C/obj/Debug/net7.0/refint/Sample_C.dll
+/Users/graphite/projects/Sample_C/Sample_C/obj/Debug/net7.0/Sample_C.pdb
+/Users/graphite/projects/Sample_C/Sample_C/obj/Debug/net7.0/Sample_C.genruntimeconfig.cache
+/Users/graphite/projects/Sample_C/Sample_C/obj/Debug/net7.0/ref/Sample_C.dll

@@ -7,7 +7,7 @@ namespace Sample
         static void Main(string[] args)
         {
             // コンソールに文字列を表示する
-            Console.WriteLine("Hello, C#");
+            Console.WriteLine("伊藤 凛");
         }
     }
 }
